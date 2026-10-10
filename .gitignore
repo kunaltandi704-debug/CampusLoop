@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+.pytest_cache/
+.coverage
+htmlcov/
+static/uploads/*
+!static/uploads/.gitkeep
+.DS_Store
+Thumbs.db
